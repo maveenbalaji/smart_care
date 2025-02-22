@@ -75,7 +75,7 @@ Smart Care is an IoT-powered wearable wristband designed to discreetly summon as
 
 ![WhatsApp Image 2025-02-07 at 11 51 44_fbc30f5a](https://github.com/user-attachments/assets/5abeb869-de84-4c3f-9a20-007ce73e761c)
 
-**SMART CARE FLUTTER APP **
+**SMART CARE FLUTTER APP**
 
 ![WhatsApp Image 2025-02-07 at 11 51 52_59f11f71](https://github.com/user-attachments/assets/6fa81aa5-4185-4ba6-8d97-25fdcc277a23)
 
